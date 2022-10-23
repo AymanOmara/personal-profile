@@ -139,6 +139,11 @@ hr.new3 {
   margin: 30px 10px 30px;
   position: relative;
 }
+.footer-contact-items:hover {
+  margin: 30px 10px 30px;
+  position: relative;
+  color: white;
+}
 .footer-rights {
   position: absolute;
   left: 50%;
